@@ -1,0 +1,120 @@
+Receita: 2000
+Custos: 50 5 1
+Alpha: 0.2
+Valor função objetivo: 1162.923209
+Demanda total atendida: 1.000000
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 600.000000
+Hubs: 4 7 12 14 17 
+Tempo de CPU: 9857.610000
+======================================================================
+Receita: 2000
+Custos: 50 5 1
+Alpha: 0.4
+Valor função objetivo: 1008.463042
+Demanda total atendida: 0.970000
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 582.000000
+Hubs: 4 7 12 14 17 
+Tempo de CPU: 10269.120000
+======================================================================
+Receita: 2000
+Custos: 50 5 1
+Alpha: 0.6
+Valor função objetivo: 898.241126
+Demanda total atendida: 0.906667
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 544.000000
+Hubs: 1 4 12 17 
+Tempo de CPU: 4710.580000
+======================================================================
+Receita: 2000
+Custos: 50 5 1
+Alpha: 0.8
+Valor função objetivo: 839.403756
+Demanda total atendida: 0.866667
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 520.000000
+Hubs: 1 4 12 17 
+Tempo de CPU: 503.150000
+======================================================================
+Receita: 2000
+Custos: 100 10 2
+Alpha: 0.2
+Valor função objetivo: 911.265095
+Demanda total atendida: 0.990000
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 594.000000
+Hubs: 4 12 17 24 
+Tempo de CPU: 10525.050000
+======================================================================
+Receita: 2000
+Custos: 100 10 2
+Alpha: 0.4
+Valor função objetivo: 803.728520
+Demanda total atendida: 0.926667
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 556.000000
+Hubs: 4 12 17 
+Tempo de CPU: 8393.100000
+======================================================================
+Receita: 2000
+Custos: 100 10 2
+Alpha: 0.6
+Valor função objetivo: 717.732972
+Demanda total atendida: 0.886667
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 532.000000
+Hubs: 4 12 17 
+Tempo de CPU: 1000.240000
+======================================================================
+Receita: 2000
+Custos: 100 10 2
+Alpha: 0.8
+Valor função objetivo: 690.895312
+Demanda total atendida: 0.790000
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 474.000000
+Hubs: 18 21 
+Tempo de CPU: 226.010000
+======================================================================
+Receita: 2000
+Custos: 150 15 3
+Alpha: 0.2
+Valor função objetivo: 738.082131
+Demanda total atendida: 0.970000
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 582.000000
+Hubs: 4 12 17 
+Tempo de CPU: 8293.870000
+======================================================================
+Receita: 2000
+Custos: 150 15 3
+Alpha: 0.4
+Valor função objetivo: 633.728520
+Demanda total atendida: 0.926667
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 556.000000
+Hubs: 4 12 17 
+Tempo de CPU: 3104.030000
+======================================================================
+Receita: 2000
+Custos: 150 15 3
+Alpha: 0.6
+Valor função objetivo: 599.175265
+Demanda total atendida: 0.666667
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 400.000000
+Hubs: 20 
+Tempo de CPU: 360.550000
+======================================================================
+Receita: 2000
+Custos: 150 15 3
+Alpha: 0.8
+Valor função objetivo: 599.175265
+Demanda total atendida: 0.666667
+Demanda por link direto: 0.000000
+Quantidade de pares atendidos: 400.000000
+Hubs: 20 
+Tempo de CPU: 207.810000
+======================================================================
